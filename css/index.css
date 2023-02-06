@@ -46,10 +46,12 @@ span {
 }
 
 .subtitle {
-  font-family: ;
-  font-size: ;
-  line-height: ;
+  font-family: 'Farro-Light300', sans-serif;
+  font-size: 30px;
+  line-height: 30px;
   margin-bottom: 30px;
+  font-style: normal;
+  letter-spacing: 0.04em;
 }
 
 a {
@@ -62,7 +64,7 @@ a {
 }
 
 h2 {
-  font-family: 'Francois One', sans-serif;;
+  font-family: 'Francois One', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 36px;
@@ -71,7 +73,7 @@ h2 {
 }
 
 p {
-  font-family: 'PT Sans', sans-serif;;
+  font-family: 'PT Sans', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 28px;
